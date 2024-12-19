@@ -1362,3 +1362,116 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.12.19-13.00.04:953][268]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.12.19-13.00.04:953][268]LogContentValidation: Display: Validating asset /Game/StarterLevelWithTeleporters.StarterLevelWithTeleporters
 [2024.12.19-13.00.04:953][268]AssetCheck: /Game/StarterLevelWithTeleporters Validating asset
+[2024.12.19-13.00.37:763][906]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.12.19-13.01.17:674][452]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2109.718506
+[2024.12.19-13.01.18:151][460]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.19-13.01.18:151][460]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2110.130615, Update Interval: 344.779816
+[2024.12.19-13.01.36:051][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-13.01.36:105][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.12.19-13.01.36:114][ 39]LogSavePackage: Moving output files for package: /Game/StarterLevelWithTeleporters
+[2024.12.19-13.01.36:115][ 39]LogSavePackage: Moving '../../../../../../Users/szyme/OneDrive/Dokumenty/Unreal Projects/Neon-Rebbelion/NeonRebbelion/Saved/StarterLevelWithTeleportersEC5584664D863E0C70B7BE97F7DDF4E2.tmp' to '../../../../../../Users/szyme/OneDrive/Dokumenty/Unreal Projects/Neon-Rebbelion/NeonRebbelion/Content/StarterLevelWithTeleporters.umap'
+[2024.12.19-13.01.36:119][ 39]LogFileHelpers: Saving map 'StarterLevelWithTeleporters' took 0.025
+[2024.12.19-13.01.36:125][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.092 ms (total: 10.9 sec)
+[2024.12.19-13.01.36:165][ 39]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.19-13.01.36:165][ 39]LogContentValidation: Enabled validators:
+[2024.12.19-13.01.36:165][ 39]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.19-13.01.36:165][ 39]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.19-13.01.36:165][ 39]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.19-13.01.36:165][ 39]LogContentValidation: Display: Validating asset /Game/StarterLevelWithTeleporters.StarterLevelWithTeleporters
+[2024.12.19-13.01.36:165][ 39]AssetCheck: /Game/StarterLevelWithTeleporters Validating asset
+[2024.12.19-13.01.37:075][ 83]Cmd: TRANSACTION UNDO
+[2024.12.19-13.01.37:075][ 83]LogEditorTransaction: Undo Replace component used material
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: ================================================
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: Total job queries 294, among them cache hits 48 (16.33%), DDC hits 146 (49.66%), Duplicates 6 (2.04%)
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: Tracking 240 distinct input hashes that result in 204 distinct outputs (85.00%)
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: RAM used: 6.47 MiB of 1.60 GiB budget. Usage: 0.39%
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: Shaders Compiled: 94
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: Jobs assigned 94, completed 94 (100%)
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: Average time worker was idle: 22.62 s
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: Job execution time: average 0.39 s, max 1.45 s
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: Job life time (pending + execution): average 0.44 s, max 1.49
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: Shader code size: average 33.844 KiB, min 5.34 KiB, max 60.719 KiB
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.44 s
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: Jobs were issued in 94 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: Average processing rate: 6.51 jobs/sec
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: Total thread time: 17.485 s
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: Total thread preprocess time: 2.616 s
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: Percentage time preprocessing: 14.96%
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: Effective parallelization: 1.21 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   30 times, average 0.23 sec, max 0.34 sec, min 0.22 sec)
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    3 times, average 0.17 sec, max 0.18 sec, min 0.16 sec)
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    5 times, average 0.16 sec, max 0.17 sec, min 0.16 sec)
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    3 times, average 0.16 sec, max 0.16 sec, min 0.16 sec)
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 40.22% of total time (compiled   30 times, average 0.23 sec, max 0.34 sec, min 0.22 sec)
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 21.89% of total time (compiled   24 times, average 0.16 sec, max 0.25 sec, min 0.14 sec)
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.11% of total time (compiled   13 times, average 0.14 sec, max 0.16 sec, min 0.12 sec)
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.10% of total time (compiled   13 times, average 0.12 sec, max 0.14 sec, min 0.11 sec)
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display:                                                  FVelocityPS - 4.66% of total time (compiled    5 times, average 0.16 sec, max 0.17 sec, min 0.16 sec)
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: === Material stats ===
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: Materials Translated:    120
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: Material Translation Only: 0.02 s (31%)
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: Material Cache Hits: 10 (8%)
+[2024.12.19-13.02.10:538][240]LogShaderCompilers: Display: ================================================
+[2024.12.19-13.03.15:720][ 23]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.19-13.03.15:725][ 23]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.19-13.03.15:725][ 23]LogPlayLevel: Display: Creating online subsystem for client :Context_5
+[2024.12.19-13.03.15:727][ 23]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2024.12.19-13.03.15:767][ 24]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StarterLevelWithTeleporters
+[2024.12.19-13.03.15:768][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001347s)
+[2024.12.19-13.03.15:768][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterLevelWithTeleporters.StarterLevelWithTeleporters to /Game/UEDPIE_0_StarterLevelWithTeleporters.StarterLevelWithTeleporters (0.001387s)
+[2024.12.19-13.03.15:770][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.12.19-13.03.15:772][ 24]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.19-13.03.15:772][ 24]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2024.12.19-13.03.15:785][ 24]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.12.19-13.03.15:785][ 24]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.19-13.03.15:785][ 24]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.19-13.03.15:785][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.19-13.03.15:785][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.19-13.03.15:785][ 24]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.19-13.03.15:785][ 24]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.19-13.03.15:785][ 24]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.19-13.03.15:785][ 24]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.19-13.03.15:785][ 24]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.19-13.03.15:785][ 24]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.19-13.03.15:785][ 24]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.19-13.03.15:787][ 24]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.19-13.03.15:805][ 24]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.12.19-13.03.15:805][ 24]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.19-13.03.15:805][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.19-13.03.15:805][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.19-13.03.15:806][ 24]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.12.19-13.03.15:806][ 24]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.12.19-13.03.15:807][ 24]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.12.19-13.03.15:807][ 24]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.12.19-13.03.15:807][ 24]LogInit: FAudioDevice initialized with ID 4.
+[2024.12.19-13.03.15:807][ 24]LogAudio: Display: Audio Device (ID: 4) registered with world 'StarterLevelWithTeleporters'.
+[2024.12.19-13.03.15:807][ 24]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.12.19-13.03.15:835][ 24]LogLoad: Game class is 'GameModeBase'
+[2024.12.19-13.03.15:836][ 24]LogWorld: Bringing World /Game/UEDPIE_0_StarterLevelWithTeleporters.StarterLevelWithTeleporters up for play (max tick rate 0) at 2024.12.19-14.03.15
+[2024.12.19-13.03.15:836][ 24]LogWorld: Bringing up level for play took: 0.000663
+[2024.12.19-13.03.15:846][ 24]PIE: Server logged in
+[2024.12.19-13.03.15:847][ 24]PIE: Play in editor total start time 0.124 seconds.
+[2024.12.19-13.03.22:181][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.19-13.03.22:181][765]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StarterLevelWithTeleporters
+[2024.12.19-13.03.22:181][765]LogWorld: UWorld::CleanupWorld for StarterLevelWithTeleporters, bSessionEnded=true, bCleanupResources=true
+[2024.12.19-13.03.22:181][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-13.03.22:181][765]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.19-13.03.22:181][765]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.19-13.03.22:183][765]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.19-13.03.22:184][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-13.03.22:186][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.19-13.03.22:186][765]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.12.19-13.03.22:187][765]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.12.19-13.03.22:188][765]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.12.19-13.03.22:191][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.12.19-13.03.22:291][767]LogPlayLevel: Display: Destroying online subsystem :Context_5
