@@ -1,0 +1,26 @@
+[
+	{
+		"file": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Unreal Projects\\Neon-Rebbelion\\NeonRebbelion\\Source\\NeonRebbelion\\NeonRebbelion.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\szyme\\OneDrive\\Dokumenty\\Unreal Projects\\Neon-Rebbelion\\NeonRebbelion\\.vscode\\compileCommands_NeonRebbelion\\NeonRebbelion.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Unreal Projects\\Neon-Rebbelion\\NeonRebbelion\\Source\\NeonRebbelion\\NeonRebbelion.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\szyme\\OneDrive\\Dokumenty\\Unreal Projects\\Neon-Rebbelion\\NeonRebbelion\\.vscode\\compileCommands_NeonRebbelion\\NeonRebbelion.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Unreal Projects\\Neon-Rebbelion\\NeonRebbelion\\Source\\NeonRebbelion\\NeonRebbelion.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\szyme\\OneDrive\\Dokumenty\\Unreal Projects\\Neon-Rebbelion\\NeonRebbelion\\.vscode\\compileCommands_NeonRebbelion\\NeonRebbelion.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	}
+]

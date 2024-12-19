@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\szyme\\OneDrive\\Dokumenty\\Unreal Projects\\Neon-Rebbelion\\NeonRebbelion\\Source\\NeonRebbelion\\NeonRebbelion.Build.cs",
+		"C:\\Users\\szyme\\OneDrive\\Dokumenty\\Unreal Projects\\Neon-Rebbelion\\NeonRebbelion\\Source\\NeonRebbelion.Target.cs",
+		"C:\\Users\\szyme\\OneDrive\\Dokumenty\\Unreal Projects\\Neon-Rebbelion\\NeonRebbelion\\Source\\NeonRebbelionEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

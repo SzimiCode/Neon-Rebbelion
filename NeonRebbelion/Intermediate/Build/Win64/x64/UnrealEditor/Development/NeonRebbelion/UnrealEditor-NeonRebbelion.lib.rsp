@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-NeonRebbelion.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\szyme\OneDrive\Dokumenty\Unreal Projects\Neon-Rebbelion\NeonRebbelion\Intermediate\Build\Win64\x64\NeonRebbelionEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\szyme\OneDrive\Dokumenty\Unreal Projects\Neon-Rebbelion\NeonRebbelion\Intermediate\Build\Win64\x64\UnrealEditor\Development\NeonRebbelion\NeonRebbelion.cpp.obj"
+"C:\Users\szyme\OneDrive\Dokumenty\Unreal Projects\Neon-Rebbelion\NeonRebbelion\Intermediate\Build\Win64\x64\UnrealEditor\Development\NeonRebbelion\Default.rc2.res"
+/OUT:"C:\Users\szyme\OneDrive\Dokumenty\Unreal Projects\Neon-Rebbelion\NeonRebbelion\Intermediate\Build\Win64\x64\UnrealEditor\Development\NeonRebbelion\UnrealEditor-NeonRebbelion.lib"

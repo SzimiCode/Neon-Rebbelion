@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "NeonRebbelion",
+			"Path": "..\\Source\\NeonRebbelion.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NeonRebbelionEditor",
+			"Path": "..\\Source\\NeonRebbelionEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

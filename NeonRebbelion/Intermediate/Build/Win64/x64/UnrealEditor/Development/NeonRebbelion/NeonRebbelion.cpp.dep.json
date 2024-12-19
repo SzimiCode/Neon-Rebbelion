@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\szyme\\onedrive\\dokumenty\\unreal projects\\neon-rebbelion\\neonrebbelion\\source\\neonrebbelion\\neonrebbelion.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\szyme\\onedrive\\dokumenty\\unreal projects\\neon-rebbelion\\neonrebbelion\\intermediate\\build\\win64\\x64\\neonrebbelioneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\szyme\\onedrive\\dokumenty\\unreal projects\\neon-rebbelion\\neonrebbelion\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\neonrebbelion\\definitions.neonrebbelion.h",
+            "c:\\users\\szyme\\onedrive\\dokumenty\\unreal projects\\neon-rebbelion\\neonrebbelion\\source\\neonrebbelion\\neonrebbelion.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
