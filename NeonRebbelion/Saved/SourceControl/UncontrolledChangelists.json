@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/szyme/OneDrive/Dokumenty/Unreal Projects/Neon-Rebbelion/NeonRebbelion/Content/StarterLevel.umap",
+				"C:/Users/szyme/OneDrive/Dokumenty/Unreal Projects/Neon-Rebbelion/NeonRebbelion/Content/StarterLevelWithTeleporters.umap"
+			]
+		}
+	]
+}

@@ -1111,3 +1111,254 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.12.19-12.49.30:569][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
 [2024.12.19-12.49.30:579][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
 [2024.12.19-12.49.30:601][813]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2024.12.19-12.50.30:371][191]LogSlate: Window 'New Level' being destroyed
+[2024.12.19-12.50.30:393][191]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.12.19-12.50.30:393][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-12.50.30:393][191]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2024.12.19-12.50.30:394][191]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.12.19-12.50.30:394][191]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.19-12.50.30:394][191]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.19-12.50.30:396][191]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.19-12.50.30:410][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.12.19-12.50.30:411][191]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.19-12.50.30:413][191]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.12.19-12.53.16:236][280]LogSlate: Window 'Light Mixer' being destroyed
+[2024.12.19-12.53.16:301][280]LogSlate: Window 'Light Mixer' being destroyed
+[2024.12.19-12.53.22:211][681]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2024.12.19-12.53.22:211][681]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2024.12.19-12.53.22:212][681]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Temp/Untitled_90.Untitled:PersistentLevel.SkyLight_0
+[2024.12.19-12.53.22:212][681]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Temp/Untitled_90.Untitled:PersistentLevel.SkyLight_0
+[2024.12.19-12.53.22:490][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.12.19-12.53.22:490][706]LogEditorActor: Deleted 0 Actors (0.004 secs)
+[2024.12.19-12.53.22:495][706]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2024.12.19-12.53.22:495][706]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2024.12.19-12.53.22:496][706]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Temp/Untitled_90.Untitled:PersistentLevel.SkyLight_1
+[2024.12.19-12.53.22:496][706]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Temp/Untitled_90.Untitled:PersistentLevel.SkyLight_1
+[2024.12.19-12.53.28:512][361]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.12.19-12.53.28:513][361]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.12.19-12.53.28:513][361]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Temp/Untitled_90.Untitled:PersistentLevel.DirectionalLight_0
+[2024.12.19-12.53.28:513][361]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Temp/Untitled_90.Untitled:PersistentLevel.DirectionalLight_0
+[2024.12.19-12.53.28:783][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2024.12.19-12.53.28:784][392]LogEditorActor: Deleted 0 Actors (0.002 secs)
+[2024.12.19-12.53.28:788][392]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.12.19-12.53.28:788][392]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.12.19-12.53.28:789][392]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Temp/Untitled_90.Untitled:PersistentLevel.DirectionalLight_1
+[2024.12.19-12.53.28:789][392]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Temp/Untitled_90.Untitled:PersistentLevel.DirectionalLight_1
+[2024.12.19-12.53.56:626][ 44]LogSlate: Window 'New Level' being destroyed
+[2024.12.19-12.53.58:205][ 44]LogSlate: Window 'Save Content' being destroyed
+[2024.12.19-12.53.58:252][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-12.54.08:959][ 44]LogSlate: Window 'Save Level As' being destroyed
+[2024.12.19-12.54.08:979][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.12.19-12.54.08:986][ 44]LogPackageLocalizationCache: Processed 52 localized package path(s) for 1 prioritized culture(s) in 0.004601 seconds
+[2024.12.19-12.54.08:993][ 44]LogSavePackage: Moving output files for package: /Game/StarterLevel
+[2024.12.19-12.54.08:993][ 44]LogSavePackage: Moving '../../../../../../Users/szyme/OneDrive/Dokumenty/Unreal Projects/Neon-Rebbelion/NeonRebbelion/Saved/StarterLevel656EA37042EC47BC99930E9A29177DC9.tmp' to '../../../../../../Users/szyme/OneDrive/Dokumenty/Unreal Projects/Neon-Rebbelion/NeonRebbelion/Content/StarterLevel.umap'
+[2024.12.19-12.54.09:000][ 44]LogFileHelpers: Saving map 'StarterLevel' took 0.036
+[2024.12.19-12.54.09:004][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 10.7 sec
+[2024.12.19-12.54.09:004][ 44]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.19-12.54.09:014][ 44]LogWorld: UWorld::CleanupWorld for StarterLevel, bSessionEnded=true, bCleanupResources=true
+[2024.12.19-12.54.09:014][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-12.54.09:014][ 44]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.19-12.54.09:014][ 44]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.19-12.54.09:016][ 44]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.19-12.54.09:017][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.12.19-12.54.09:021][ 44]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_91'.
+[2024.12.19-12.54.09:022][ 44]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.19-12.54.09:030][ 44]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.19-12.54.09:033][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.12.19-12.54.09:033][ 44]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.19-12.54.09:033][ 44]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.124ms to complete.
+[2024.12.19-12.54.09:091][ 44]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.19-12.54.09:091][ 44]LogContentValidation: Enabled validators:
+[2024.12.19-12.54.09:091][ 44]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.19-12.54.09:091][ 44]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.19-12.54.09:091][ 44]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.19-12.54.20:008][240]LogSlate: Took 0.004325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.12.19-12.54.23:983][641]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.19-12.54.23:988][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.19-12.54.23:988][641]LogPlayLevel: Display: Creating online subsystem for client :Context_2
+[2024.12.19-12.54.23:989][641]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2024.12.19-12.54.24:063][642]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_91
+[2024.12.19-12.54.24:064][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000832s)
+[2024.12.19-12.54.24:064][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_91.Untitled_91 to /Temp/UEDPIE_0_Untitled_91.Untitled_91 (0.000862s)
+[2024.12.19-12.54.24:066][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.12.19-12.54.24:067][642]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.19-12.54.24:068][642]LogPlayLevel: PIE: World Init took: (0.000600s)
+[2024.12.19-12.54.24:078][642]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.12.19-12.54.24:078][642]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.19-12.54.24:078][642]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.19-12.54.24:078][642]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.19-12.54.24:078][642]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.19-12.54.24:078][642]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.19-12.54.24:078][642]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.19-12.54.24:078][642]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.19-12.54.24:078][642]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.19-12.54.24:078][642]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.19-12.54.24:078][642]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.19-12.54.24:078][642]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.19-12.54.24:080][642]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.19-12.54.24:099][642]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.12.19-12.54.24:099][642]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.19-12.54.24:099][642]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.19-12.54.24:099][642]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.19-12.54.24:099][642]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.12.19-12.54.24:100][642]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.12.19-12.54.24:100][642]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.12.19-12.54.24:100][642]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.12.19-12.54.24:100][642]LogInit: FAudioDevice initialized with ID 3.
+[2024.12.19-12.54.24:100][642]LogAudio: Display: Audio Device (ID: 3) registered with world 'Untitled_91'.
+[2024.12.19-12.54.24:100][642]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.12.19-12.54.24:136][642]LogLoad: Game class is 'GameModeBase'
+[2024.12.19-12.54.24:137][642]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_91.Untitled_91 up for play (max tick rate 0) at 2024.12.19-13.54.24
+[2024.12.19-12.54.24:137][642]LogWorld: Bringing up level for play took: 0.000479
+[2024.12.19-12.54.24:145][642]PIE: Server logged in
+[2024.12.19-12.54.24:146][642]PIE: Play in editor total start time 0.161 seconds.
+[2024.12.19-12.54.29:472][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.19-12.54.29:472][249]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_91
+[2024.12.19-12.54.29:472][249]LogWorld: UWorld::CleanupWorld for Untitled_91, bSessionEnded=true, bCleanupResources=true
+[2024.12.19-12.54.29:472][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-12.54.29:472][249]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.19-12.54.29:472][249]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.19-12.54.29:474][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.19-12.54.29:475][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-12.54.29:477][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.19-12.54.29:477][249]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.12.19-12.54.29:477][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.12.19-12.54.29:478][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.12.19-12.54.29:482][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.12.19-12.54.29:538][252]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2024.12.19-12.54.49:994][538]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.12.19-12.54.49:994][538]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.12.19-12.54.49:995][538]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_91.Untitled_91:PersistentLevel.StaticMeshActor_0
+[2024.12.19-12.54.49:996][538]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_91.Untitled_91:PersistentLevel.StaticMeshActor_0
+[2024.12.19-12.54.50:691][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.12.19-12.54.50:692][620]LogEditorActor: Deleted 0 Actors (0.003 secs)
+[2024.12.19-12.54.50:696][620]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.12.19-12.54.50:697][620]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.12.19-12.54.50:697][620]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_91.Untitled_91:PersistentLevel.StaticMeshActor_2
+[2024.12.19-12.54.50:698][620]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_91.Untitled_91:PersistentLevel.StaticMeshActor_2
+[2024.12.19-12.55.06:549][240]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1738.583862
+[2024.12.19-12.55.06:744][263]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.19-12.55.06:744][263]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1738.769897, Update Interval: 331.070282
+[2024.12.19-12.55.16:341][253]Cmd: EDIT COPY
+[2024.12.19-12.55.16:866][315]Cmd: EDIT PASTE
+[2024.12.19-12.55.38:099][665]Cmd: DUPLICATE
+[2024.12.19-12.55.38:099][665]Cmd: ACTOR DUPLICATE
+[2024.12.19-12.56.10:473][215]LogShaderCompilers: Display: ================================================
+[2024.12.19-12.56.10:473][215]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.19-12.56.10:473][215]LogShaderCompilers: Display: Total job queries 159, among them cache hits 16 (10.06%), DDC hits 130 (81.76%), Duplicates 6 (3.77%)
+[2024.12.19-12.56.10:473][215]LogShaderCompilers: Display: Tracking 137 distinct input hashes that result in 132 distinct outputs (96.35%)
+[2024.12.19-12.56.10:473][215]LogShaderCompilers: Display: RAM used: 4.80 MiB of 1.60 GiB budget. Usage: 0.29%
+[2024.12.19-12.56.10:473][215]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.19-12.56.10:473][215]LogShaderCompilers: Display: Shaders Compiled: 7
+[2024.12.19-12.56.10:473][215]LogShaderCompilers: Display: Jobs assigned 7, completed 7 (100%)
+[2024.12.19-12.56.10:473][215]LogShaderCompilers: Display: Average time worker was idle: 39.67 s
+[2024.12.19-12.56.10:473][215]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.11 s
+[2024.12.19-12.56.10:473][215]LogShaderCompilers: Display: Job execution time: average 1.04 s, max 1.45 s
+[2024.12.19-12.56.10:473][215]LogShaderCompilers: Display: Job life time (pending + execution): average 1.11 s, max 1.49
+[2024.12.19-12.56.10:473][215]LogShaderCompilers: Display: Shader code size: average 32.906 KiB, min 27.727 KiB, max 35.863 KiB
+[2024.12.19-12.56.10:473][215]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.34 s
+[2024.12.19-12.56.10:473][215]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.12.19-12.56.10:473][215]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.19-12.56.10:473][215]LogShaderCompilers: Display: Average processing rate: 3.00 jobs/sec
+[2024.12.19-12.56.10:473][215]LogShaderCompilers: Display: Total thread time: 1.385 s
+[2024.12.19-12.56.10:474][215]LogShaderCompilers: Display: Total thread preprocess time: 1.604 s
+[2024.12.19-12.56.10:474][215]LogShaderCompilers: Display: Percentage time preprocessing: 115.78%
+[2024.12.19-12.56.10:474][215]LogShaderCompilers: Display: Effective parallelization: 0.59 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.12.19-12.56.10:474][215]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.19-12.56.10:474][215]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.29 sec, max 0.34 sec, min 0.24 sec)
+[2024.12.19-12.56.10:474][215]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.20 sec, max 0.25 sec, min 0.16 sec)
+[2024.12.19-12.56.10:474][215]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.14 sec, max 0.14 sec, min 0.14 sec)
+[2024.12.19-12.56.10:474][215]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.13 sec, max 0.14 sec, min 0.13 sec)
+[2024.12.19-12.56.10:474][215]LogShaderCompilers: Display:                    TVoxelizeVolumeVS<VMode_Primitive_Sphere> (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.12.19-12.56.10:474][215]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.19-12.56.10:474][215]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 41.58% of total time (compiled    2 times, average 0.29 sec, max 0.34 sec, min 0.24 sec)
+[2024.12.19-12.56.10:474][215]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 29.42% of total time (compiled    2 times, average 0.20 sec, max 0.25 sec, min 0.16 sec)
+[2024.12.19-12.56.10:474][215]LogShaderCompilers: Display:                                                 FLumenCardVS - 19.16% of total time (compiled    2 times, average 0.13 sec, max 0.14 sec, min 0.13 sec)
+[2024.12.19-12.56.10:474][215]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.84% of total time (compiled    1 times, average 0.14 sec, max 0.14 sec, min 0.14 sec)
+[2024.12.19-12.56.10:474][215]LogShaderCompilers: Display:                    TVoxelizeVolumeVS<VMode_Primitive_Sphere> - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.12.19-12.56.10:474][215]LogShaderCompilers: Display: === Material stats ===
+[2024.12.19-12.56.10:474][215]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.19-12.56.10:474][215]LogShaderCompilers: Display: Materials Translated:    116
+[2024.12.19-12.56.10:474][215]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2024.12.19-12.56.10:474][215]LogShaderCompilers: Display: Material Translation Only: 0.02 s (32%)
+[2024.12.19-12.56.10:474][215]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.12.19-12.56.10:474][215]LogShaderCompilers: Display: Material Cache Hits: 10 (9%)
+[2024.12.19-12.56.10:474][215]LogShaderCompilers: Display: ================================================
+[2024.12.19-12.56.13:510][465]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.12.19-12.56.13:510][465]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.12.19-12.56.13:511][465]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Temp/Untitled_91.Untitled_91:PersistentLevel.StaticMeshActor_5
+[2024.12.19-12.56.13:511][465]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Temp/Untitled_91.Untitled_91:PersistentLevel.StaticMeshActor_5
+[2024.12.19-12.56.13:908][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.12.19-12.56.13:909][509]LogEditorActor: Deleted 0 Actors (0.003 secs)
+[2024.12.19-12.56.13:914][509]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.12.19-12.56.13:914][509]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.12.19-12.56.13:914][509]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Temp/Untitled_91.Untitled_91:PersistentLevel.StaticMeshActor_6
+[2024.12.19-12.56.13:915][509]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Temp/Untitled_91.Untitled_91:PersistentLevel.StaticMeshActor_6
+[2024.12.19-12.56.52:690][576]Cmd: DUPLICATE
+[2024.12.19-12.56.52:690][576]Cmd: ACTOR DUPLICATE
+[2024.12.19-12.56.56:625][996]Cmd: DUPLICATE
+[2024.12.19-12.56.56:625][996]Cmd: ACTOR DUPLICATE
+[2024.12.19-12.57.11:480][603]Cmd: DUPLICATE
+[2024.12.19-12.57.11:480][603]Cmd: ACTOR DUPLICATE
+[2024.12.19-12.57.33:611][988]Cmd: DUPLICATE
+[2024.12.19-12.57.33:611][988]Cmd: ACTOR DUPLICATE
+[2024.12.19-12.57.44:377][139]Cmd: DUPLICATE
+[2024.12.19-12.57.44:377][139]Cmd: ACTOR DUPLICATE
+[2024.12.19-12.57.59:958][819]Cmd: DUPLICATE
+[2024.12.19-12.57.59:958][819]Cmd: ACTOR DUPLICATE
+[2024.12.19-12.58.20:106][ 95]Cmd: DUPLICATE
+[2024.12.19-12.58.20:106][ 95]Cmd: ACTOR DUPLICATE
+[2024.12.19-12.58.37:827][ 55]Cmd: DUPLICATE
+[2024.12.19-12.58.37:827][ 55]Cmd: ACTOR DUPLICATE
+[2024.12.19-12.58.40:467][330]Cmd: DUPLICATE
+[2024.12.19-12.58.40:467][330]Cmd: ACTOR DUPLICATE
+[2024.12.19-12.58.43:131][627]Cmd: DUPLICATE
+[2024.12.19-12.58.43:131][627]Cmd: ACTOR DUPLICATE
+[2024.12.19-12.59.30:899][483]LogSlate: Window 'Save Level As' being destroyed
+[2024.12.19-12.59.54:081][665]LogSlate: Window 'Save Level As' being destroyed
+[2024.12.19-12.59.54:146][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.12.19-12.59.54:155][665]LogSavePackage: Moving output files for package: /Game/StarterLevelWithTeleporters
+[2024.12.19-12.59.54:155][665]LogSavePackage: Moving '../../../../../../Users/szyme/OneDrive/Dokumenty/Unreal Projects/Neon-Rebbelion/NeonRebbelion/Saved/StarterLevelWithTeleporters466B865B41B24654C64A83B8A4B5DAB7.tmp' to '../../../../../../Users/szyme/OneDrive/Dokumenty/Unreal Projects/Neon-Rebbelion/NeonRebbelion/Content/StarterLevelWithTeleporters.umap'
+[2024.12.19-12.59.54:177][665]LogFileHelpers: Saving map 'StarterLevelWithTeleporters' took 0.090
+[2024.12.19-12.59.54:177][665]Cmd: MAP LOAD FILE="../../../../../../Users/szyme/OneDrive/Dokumenty/Unreal Projects/Neon-Rebbelion/NeonRebbelion/Content/StarterLevelWithTeleporters.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.19-12.59.54:220][665]LogWorld: UWorld::CleanupWorld for StarterLevelWithTeleporters, bSessionEnded=true, bCleanupResources=true
+[2024.12.19-12.59.54:220][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-12.59.54:220][665]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.19-12.59.54:220][665]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.19-12.59.54:222][665]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.19-12.59.54:223][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.12.19-12.59.54:226][665]LogAudio: Display: Audio Device (ID: 1) registered with world 'StarterLevelWithTeleporters'.
+[2024.12.19-12.59.54:227][665]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.19-12.59.54:235][665]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.19-12.59.54:238][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.12.19-12.59.54:241][665]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.19-12.59.54:241][665]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.076ms to complete.
+[2024.12.19-12.59.54:296][665]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.19-12.59.54:296][665]LogContentValidation: Enabled validators:
+[2024.12.19-12.59.54:296][665]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.19-12.59.54:296][665]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.19-12.59.54:296][665]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.19-12.59.54:296][665]LogContentValidation: Display: Validating asset /Game/StarterLevelWithTeleporters.StarterLevelWithTeleporters
+[2024.12.19-12.59.54:296][665]AssetCheck: /Game/StarterLevelWithTeleporters Validating asset
+[2024.12.19-13.00.00:449][929]LogObjectTools: Deleting 1 worlds: /Game/StarterLevel.StarterLevel
+[2024.12.19-13.00.00:449][929]LogObjectTools: Currently 3 active worlds: /Game/StarterLevelWithTeleporters.StarterLevelWithTeleporters, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2024.12.19-13.00.00:452][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.12.19-13.00.01:923][929]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.19-13.00.01:967][929]LogWorld: UWorld::CleanupWorld for StarterLevel, bSessionEnded=true, bCleanupResources=true
+[2024.12.19-13.00.01:967][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-13.00.01:972][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.12.19-13.00.01:975][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.12.19-13.00.01:977][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.12.19-13.00.04:822][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-13.00.04:896][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2024.12.19-13.00.04:903][268]LogSavePackage: Moving output files for package: /Game/StarterLevelWithTeleporters
+[2024.12.19-13.00.04:904][268]LogSavePackage: Moving '../../../../../../Users/szyme/OneDrive/Dokumenty/Unreal Projects/Neon-Rebbelion/NeonRebbelion/Saved/StarterLevelWithTeleporters632C6D244F97819DA1D772A308ED1A6B.tmp' to '../../../../../../Users/szyme/OneDrive/Dokumenty/Unreal Projects/Neon-Rebbelion/NeonRebbelion/Content/StarterLevelWithTeleporters.umap'
+[2024.12.19-13.00.04:908][268]LogFileHelpers: Saving map 'StarterLevelWithTeleporters' took 0.025
+[2024.12.19-13.00.04:914][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.592 ms (total: 10.8 sec)
+[2024.12.19-13.00.04:953][268]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.19-13.00.04:953][268]LogContentValidation: Enabled validators:
+[2024.12.19-13.00.04:953][268]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.19-13.00.04:953][268]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.19-13.00.04:953][268]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.19-13.00.04:953][268]LogContentValidation: Display: Validating asset /Game/StarterLevelWithTeleporters.StarterLevelWithTeleporters
+[2024.12.19-13.00.04:953][268]AssetCheck: /Game/StarterLevelWithTeleporters Validating asset
